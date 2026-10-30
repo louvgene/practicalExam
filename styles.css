@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    color: #261d65;
+    background-color: #b6d1e2;
+}
+h1, h2 {
+    color: #2986e3;
+}
+h1 {
+    text-align: left;
+}
+
+.intro{
+    font-size: 20px;
+}
+.tip{
+    background-color: #fff4CC;
+    padding: 16px;
+    border: 2px solid #E0A800;
+    margin: 12px 0;
+
+}
+img{
+    border: 4px solid #1B4D3E;
+}
